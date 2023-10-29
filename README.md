@@ -5,7 +5,6 @@
 <span>
 
 <img height='150' src="https://i.ibb.co/hcfjYX8/hacktober.png">
-<img height='110' src="https://pbs.twimg.com/profile_images/1567906020831150081/oJ7mKaaj_400x400.jpg">
 </span>
 <br><br>
 

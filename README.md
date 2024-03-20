@@ -1,6 +1,6 @@
 ## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> **Hi, I'm  Saurabh!** 
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=0xsaurabhx&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote

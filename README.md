@@ -8,7 +8,8 @@
 </span>
 <br><br>
 
-
+### Visitor count
+<img src="https://profile-counter.glitch.me/vignesh05p/count.svg" />
 
 
 

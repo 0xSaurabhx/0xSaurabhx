@@ -16,8 +16,7 @@
 
 
 ### Badges
-<img height='150' src="https://i.ibb.co/hcfjYX8/hacktober.png">
-</span>
+[![](https://holopin.me/saurabhm)](https://holopin.io/@saurabhm)
 <br><br>
 
 ### Visitor count

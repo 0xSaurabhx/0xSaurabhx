@@ -1,3 +1,5 @@
+[![](https://holopin.me/saurabhm)](https://holopin.io/@saurabhm)
+<br><br>
 ## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> **Hi, I'm  Saurabh!** 
 
 ### 🏆 GitHub Trophies
@@ -13,11 +15,6 @@
 
 <span>
 
-
-
-### Badges
-[![](https://holopin.me/saurabhm)](https://holopin.io/@saurabhm)
-<br><br>
 
 ### Visitor count
 <img src="https://profile-counter.glitch.me/0xsaurabhx/count.svg" />

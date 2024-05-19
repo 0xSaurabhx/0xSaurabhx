@@ -158,7 +158,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="50" alt="debian logo"  />
 </div>
 </div>
-###
 
 <div align="center">
 <h2>✍️ Random Dev Quote</h2>

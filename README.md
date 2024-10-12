@@ -23,7 +23,7 @@
 
 ###
 
-<div align="center">
+<!--<div align="center">
 <h2>🛠️ Languages & Tools</h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="50" alt="angularjs logo"  />
@@ -162,7 +162,7 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="50" alt="debian logo"  />
 </div>
-</div>
+</div>-->
 
 <div align="center">
 <h2>✍️ Random Dev Quote</h2>

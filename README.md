@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Hey! I'm Saurabh M</h1>
+<h1>Hey! I'm Saurabh</h1>
 </div>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xsaurabhx&" alt="0xsaurabhx" /></p>
@@ -8,6 +8,11 @@
 <img src="https://raw.githubusercontent.com/0xsaurabhx/0xsaurabhx/output/snake.svg" alt="Snake animation" />
 </div>
 
+<div align="center">
+<h2>Holopin Badges</h2>
+  
+[![An image of @saurabhm's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saurabhm)](https://holopin.io/@saurabhm)
+</div>
 
 <div align="center">
 <h2>🏆 GitHub Trophies</h2>

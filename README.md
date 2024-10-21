@@ -1,5 +1,7 @@
 <div align="center">
 <h1>Hey! I'm Saurabh</h1>
+<img src="https://doi-badge-main.vercel.app/api/badge?uuid=447ca0cd-a691-498d-bb8b-e479a426f6d4"  width="300" alt="Badge" />
+<br>
 </div>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xsaurabhx&" alt="0xsaurabhx" /></p>

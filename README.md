@@ -174,4 +174,4 @@
 ###
 
 ### Visitor count
-<img src="https://profile-counter.glitch.me/0xsaurabhx/count.svg" />
+![](https://komarev.com/ghpvc/?username=0xsaurabhx&label=PROFILE+VIEWS)
